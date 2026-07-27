@@ -3,3 +3,8 @@
 
 # local preview copy — never commit this
 preview.html
+
+# raw source art — originals kept for future edits, only compressed
+# versions embedded in index.html belong in the repo
+*.pdf
+UTILITY.SMOKER.ISO copy.png
